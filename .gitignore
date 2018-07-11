@@ -1,0 +1,9 @@
+/.idea/
+/src/vendor/
+/src/var/*
+!/src/var/cache
+/src/var/cache/*
+!/src/var/cache/.gitkeep
+!/src/var/log
+/src/var/log/*
+!/src/var/log/.gitkeep
